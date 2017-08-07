@@ -1,2 +1,4 @@
 # hello-world
-Tes 
+Test
+
+The word should be "test" not "tes"
